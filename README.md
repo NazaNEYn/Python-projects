@@ -67,7 +67,8 @@ Each project is in its own folder, so they are easy to run on their own.<br>
 <hr>
 
 ## 📬 Contact
-[Twitter](https://x.com/nazanin_ashrafi)
+* [Twitter](https://x.com/nazanin_ashrafi)
+* [LinkedIn](https://www.linkedin.com/in/nazanin-ashrafi/)
 
 
 
