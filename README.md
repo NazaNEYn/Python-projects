@@ -1,6 +1,6 @@
 # Python Projects
 This is a collection of all the projects I've made while learning Python. You can find different types of projects here, like games, creative apps, and helpful scripts.<br>
-Each project is in its own folder, and each one has its own file with more details.
+Each project has its own folder, and each one has its own file with more details and demos.
 
 
 
