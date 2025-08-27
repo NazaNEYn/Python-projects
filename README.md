@@ -12,7 +12,7 @@ This section contains all of my interactive games built using Python libraries l
 
 
 * **[Monster Brawl Game](https://github.com/NazaNEYn/Monster-Brawl-Game)** <br>
-A simple two-player console game where you select a monster and battle it out in a turn-based fight.
+A simple console game where you select a monster and battle it out in a turn-based fight.
 
 * **[Rock Paper Scissors](https://github.com/NazaNEYn/rock-paper-scissors.py)** <br>
 A classic game of Rock, Paper, Scissors played against the computer.
