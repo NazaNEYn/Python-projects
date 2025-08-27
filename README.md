@@ -64,7 +64,10 @@ Each project is in its own folder, so they are easy to run on their own.<br>
    python monster_brawl.py
    ```
 
+<hr>
 
+## 📬 Contact
+[Twitter](https://x.com/nazanin_ashrafi)
 
 
 
