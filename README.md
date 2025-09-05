@@ -20,6 +20,8 @@ A classic game of Rock, Paper, Scissors played against the computer.
 * **[Catch the Turtle Game 🐢](https://github.com/NazaNEYn/Catch-the-Turtle-Game)** 
 A fast and fun game made with the turtle graphics tool. The goal is to click on a turtle that moves around the screen to get points. The game has a timer and a score to make it more exciting.
 
+* **[The Snake Game](https://github.com/NazaNEYn/The-snake-game)**
+
 
 <hr>
 
