@@ -17,10 +17,10 @@ A simple console game where you select a monster and battle it out in a turn-bas
 * **[Rock Paper Scissors](https://github.com/NazaNEYn/rock-paper-scissors.py)** <br>
 A classic game of Rock, Paper, Scissors played against the computer.
 
-* **[Catch the Turtle Game 🐢](https://github.com/NazaNEYn/Catch-the-Turtle-Game)** 
+* **[Catch the Turtle Game 🐢](https://github.com/NazaNEYn/Catch-the-Turtle-Game)** <br>
 A fast and fun game made with the turtle graphics tool. The goal is to click on a turtle that moves around the screen to get points. The game has a timer and a score to make it more exciting.
 
-* **[The Snake Game](https://github.com/NazaNEYn/The-snake-game)**
+* **[The Snake Game](https://github.com/NazaNEYn/The-snake-game)**<br>
 A modern take on the classic arcade game, built with Python's turtle module. 
 
 
