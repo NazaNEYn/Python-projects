@@ -21,6 +21,7 @@ A classic game of Rock, Paper, Scissors played against the computer.
 A fast and fun game made with the turtle graphics tool. The goal is to click on a turtle that moves around the screen to get points. The game has a timer and a score to make it more exciting.
 
 * **[The Snake Game](https://github.com/NazaNEYn/The-snake-game)**
+A modern take on the classic arcade game, built with Python's turtle module. 
 
 
 <hr>
