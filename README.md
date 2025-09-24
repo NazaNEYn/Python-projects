@@ -26,7 +26,7 @@ A modern take on the classic arcade game, built with Python's turtle module.
 * **[Air Hockey Game 🏒](https://github.com/NazaNEYn/air-hockey-arcade-game)**<br>
 A classic two-player air hockey game built with Python's `turtle` library.
 
-* **[Turtle Crossing Game](https://www.youtube.com/watch?v=j5UCbcqZXks)** <br>
+* **[Turtle Crossing Game](https://github.com/NazaNEYn/turtle-crossing-game)** <br>
 A classic arcade-style game where you guide a turtle across a busy highway and avoiding cars
 
 
