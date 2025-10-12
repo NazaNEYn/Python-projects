@@ -55,7 +55,7 @@ A small script to track my progress through the popular "100 Days of Code" chall
 * **[Unit Converter](https://github.com/NazaNEYn/unit-converter)** <br>
  <br>
   
-* **(Text Cleaner Script)[https://github.com/NazaNEYn/text-cleaner-script]**
+* **[Text Cleaner Script](https://github.com/NazaNEYn/text-cleaner-script)**
 
 
 
