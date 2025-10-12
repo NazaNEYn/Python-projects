@@ -52,7 +52,10 @@ This section has simple, helpful programs that get a job done. <br>
 * **[100 Days of Code Counter](https://github.com/NazaNEYn/100-Days-of-Code-Counter)** <br>
 A small script to track my progress through the popular "100 Days of Code" challenge.
 
-* **[Unit Converter](https://github.com/NazaNEYn/unit-converter)**
+* **[Unit Converter](https://github.com/NazaNEYn/unit-converter)** <br>
+ <br>
+  
+* **[Text Cleaner Script)[https://github.com/NazaNEYn/text-cleaner-script]**
 
 
 
