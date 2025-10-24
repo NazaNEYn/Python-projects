@@ -53,9 +53,13 @@ This section has simple, helpful programs that get a job done. <br>
 A small script to track my progress through the popular "100 Days of Code" challenge.
 
 * **[Unit Converter](https://github.com/NazaNEYn/unit-converter)** <br>
- <br>
+This project is to create a program that can convert a value from one unit of measurement to another
   
-* **[Text Cleaner Script](https://github.com/NazaNEYn/text-cleaner-script)**
+* **[Text Cleaner Script](https://github.com/NazaNEYn/text-cleaner-script)** <br>
+<br>
+
+* **[To-Do List](https://github.com/NazaNEYn/to-do-list)** <br>
+This is a simple, command-line To-Do List application built with Python. It allows users to manage their daily tasks by providing a simple text-based interface to add, view, and remove items from a list.
 
 
 
@@ -84,7 +88,6 @@ Each project is in its own folder, so they are easy to run on their own.<br>
 ## 📬 Contact
 * [Twitter](https://x.com/nazanin_ashrafi)
 * [LinkedIn](https://www.linkedin.com/in/nazanin-ashrafi/)
-* Email: nazaneyn.ashrafi@gmail.com
 
 
 
