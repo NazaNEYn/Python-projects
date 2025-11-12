@@ -64,6 +64,9 @@ This project is to create a program that can convert a value from one unit of me
 * **[To-Do List](https://github.com/NazaNEYn/to-do-list)** <br>
 This is a simple, command-line To-Do List application built with Python. It allows users to manage their daily tasks by providing a simple text-based interface to add, view, and remove items from a list.
 
+* **[Book Recommendation](https://github.com/NazaNEYn/book-recommendation)** <br>
+<br>
+
 
 
 <hr>
