@@ -7,7 +7,7 @@ Each project has its own folder, and each one has its own file with more details
 
 
 
-## 🕹️ Games
+## Games
 This section contains all of my interactive games built using Python libraries like turtle or through console-based logic. <br>
 
 
@@ -36,7 +36,7 @@ A classic arcade-style game where you guide a turtle across a busy highway and a
 
 <hr>
 
-## 🎨 Creative & Drawing Apps
+## Creative & Drawing Apps
 This section showcases projects that involve generating visuals or creating interactive drawing tools. <br>
 
 * **[Interactive Turtle Drawing App 🐢](https://github.com/NazaNEYn/drawing-with-turtle-graphics)** <br>
@@ -48,7 +48,7 @@ A simple application that generates random hexadecimal color codes and displays 
 
 <hr>
 
-## 🛠️ Utilities & Scripts
+## Utilities & Scripts
 This section has simple, helpful programs that get a job done. <br>
 
 
@@ -71,7 +71,7 @@ This is a simple, command-line To-Do List application built with Python. It allo
 
 <hr>
 
-## 🚀 How to Run a Project
+## How to Run a Project
 Each project is in its own folder, so they are easy to run on their own.<br>
 
 1. **Get the code:** First, you need to copy this whole project to your computer. Use the command line and type this:<br>
@@ -91,7 +91,7 @@ Each project is in its own folder, so they are easy to run on their own.<br>
 
 <hr>
 
-## 📬 Contact
+## Contact
 * [Twitter](https://x.com/nazanin_ashrafi)
 * [LinkedIn](https://www.linkedin.com/in/nazanin-ashrafi/)
 
