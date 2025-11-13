@@ -65,7 +65,7 @@ This is a simple, command-line To-Do List application built with Python. It allo
 
 * **[Book Recommendation](https://github.com/NazaNEYn/book-recommendation)** <br>
 
-* **[Video Game Sales Trends Analyzer](https://github.com/NazaNEYn/Video-Game-Sales-analysis)  <br>
+* **[Video Game Sales Trends Analyzer](https://github.com/NazaNEYn/Video-Game-Sales-analysis)**  <br>
 
 
 
