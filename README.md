@@ -59,13 +59,13 @@ A small script to track my progress through the popular "100 Days of Code" chall
 This project is to create a program that can convert a value from one unit of measurement to another
   
 * **[Text Cleaner Script](https://github.com/NazaNEYn/text-cleaner-script)** <br>
-<br>
 
 * **[To-Do List](https://github.com/NazaNEYn/to-do-list)** <br>
 This is a simple, command-line To-Do List application built with Python. It allows users to manage their daily tasks by providing a simple text-based interface to add, view, and remove items from a list.
 
 * **[Book Recommendation](https://github.com/NazaNEYn/book-recommendation)** <br>
-<br>
+
+* **[Video Game Sales Trends Analyzer](https://github.com/NazaNEYn/Video-Game-Sales-analysis)  <br>
 
 
 
