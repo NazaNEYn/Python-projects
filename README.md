@@ -67,6 +67,10 @@ This is a simple, command-line To-Do List application built with Python. It allo
 
 * **[Video Game Sales Trends Analyzer](https://github.com/NazaNEYn/Video-Game-Sales-analysis)**  <br>
 
+* **[Random Quote Scheduler](https://github.com/NazaNEYn/random-quote-scheduler)** <br>
+
+* **[Password Generator tkinter](https://github.com/NazaNEYn/password-generator-tkinter)** <br>
+
 
 
 <hr>
