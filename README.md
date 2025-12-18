@@ -77,6 +77,7 @@ This is a simple, command-line To-Do List application built with Python. It allo
 
 ## Web Scraping
 * **[Job Scraper](https://github.com/NazaNEYn/Web-scraping-Real-Python-Fake-Jobs)**<br>
+* **[Movie Search Tool](https://github.com/NazaNEYn/movie-search-tool)
 
 <hr>
 
