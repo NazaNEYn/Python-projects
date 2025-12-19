@@ -47,6 +47,8 @@ An application that allows users to create drawings using simple commands in the
 * **[Random Hex Color Generator](https://github.com/NazaNEYn/random-hex-color)** 
 A simple application that generates random hexadecimal color codes and displays them.
 
+* **[Typing Speed Tester](https://github.com/NazaNEYn/Typing-speed-tester)**
+
 
 <hr>
 
@@ -77,7 +79,7 @@ This is a simple, command-line To-Do List application built with Python. It allo
 
 ## Web Scraping
 * **[Job Scraper](https://github.com/NazaNEYn/Web-scraping-Real-Python-Fake-Jobs)**<br>
-* **[Movie Search Tool](https://github.com/NazaNEYn/movie-search-tool)
+* **[Movie Search Tool](https://github.com/NazaNEYn/movie-search-tool)**
 
 <hr>
 
