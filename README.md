@@ -75,6 +75,8 @@ This is a simple, command-line To-Do List application built with Python. It allo
 
 * **[Password Generator tkinter](https://github.com/NazaNEYn/password-generator-tkinter)** <br>
 
+* **[Duplicate File Finder](https://github.com/NazaNEYn/duplicate-file-finder)**
+
 <hr>
 
 ## Web Scraping
